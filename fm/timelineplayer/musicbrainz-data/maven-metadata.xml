@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fm.timelineplayer</groupId>
+  <artifactId>musicbrainz-data</artifactId>
+  <versioning>
+    <versions>
+      <version>4.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140125083327</lastUpdated>
+  </versioning>
+</metadata>
